@@ -3,7 +3,13 @@ This is a showcase of certificates that I have been awarded on completion of sev
 Navigate back to [>> Website](https://encrebidle.com) 
 
 
-### [>> Course Name](courselink) on Coursera
+### [>>  Google Cloud OnBoard: Application Development](courselink) by Google Cloud
+
+![alt-text](gitcertlink")
+
+#### >>>> Please visit [this](verifylink) for verification
+
+### [>>  Geoprocessing using Python](courselink) by ISRO
 
 ![alt-text](gitcertlink")
 
