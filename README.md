@@ -5,7 +5,7 @@ Navigate back to [>> Website](https://encrebidle.com)
 
 ### [>>  Google Cloud OnBoard: Application Development](courselink) by Google Cloud
 
-![alt-text](https://github.com/encrebidle/encrebidle-certificate-showcase/blob/main/Certificates/EC_01(9516).pdf)
+![alt-text](Certificates/udemyc++certificate.jpg)
 
 #### >>>> Please visit [this](verifylink) for verification
 
