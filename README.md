@@ -10,9 +10,9 @@ Navigate back to [>> Website](https://encrebidle.com)
 ![ Crash Course on Python](Certificates/CourseraCrashpythoncert_page-0001.jpg)
 ### [>>  Rest API (Intermediate) Certification] by Hackerrank
 
-![Rest API (Intermediate) Certification](Certificates/rest_api_intermediate certificate_page-0001.jpg)
+![Rest API (Intermediate) Certification](Certificates/rest_api_intermediatecertificate_page-0001.jpg)
 ### [>>  Programming for Everybody] by University of Michigan
-![Programming for Everybody](Certificates/Coursera VQ8CKDHF7T8Spython_page-0001.jpg)
+![Programming for Everybody](Certificates/CourseraVQ8CKDHF7T8Spython_page-0001.jpg)
 ### [>>  Software Engineering Virtual Experience] by JPMorgan Chase & Co. 
 
 ![Software Engineering Virtual Experience](Certificates/JPMorgan_CERTIFICATE_page-0001.jpg)
