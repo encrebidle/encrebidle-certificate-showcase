@@ -3,9 +3,13 @@ This is a showcase of certificates that I have been awarded on completion of sev
 Navigate back to [>> Website](https://encrebidle.com) 
 
 
-### [>>  Google Cloud OnBoard: Application Development](courselink) by Google Cloud
+### [>>  Google Cloud OnBoard: Application Development](courselinks) by Google Cloud 
 
+<<<<<<< HEAD
 ![alt-text](EC_01(9516).pdf)
+=======
+![alt-text](Certificates/udemyc++certificate.jpg)
+>>>>>>> 900d9cb77cfdf408d2c8cfb6ea6991d84645a4c2
 
 #### >>>> Please visit [this](verifylink) for verification
 
