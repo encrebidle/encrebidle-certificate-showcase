@@ -16,7 +16,7 @@ Navigate back to [>> Website](https://encrebidle.com)
 ![ Geoprocessing using Python](Certificates/certificate_IIRS202173631582_page-0001.jpg)
 
 ### [>>  Mathematical Thinking in Computer Science] by UC San Diego 
-![Mathematical Thinking in Computer Science](Certificates/Coursera SQLLXGSGD4YQ_page-0001.jpg)
+![Mathematical Thinking in Computer Science](Certificates/CourseraSQLLXGSGD4YQ_page-0001.jpg)
 
 
 
