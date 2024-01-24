@@ -6,23 +6,19 @@ Navigate back to [>> Website](https://encrebidle.com)
 ### [>>  Google Cloud OnBoard: Application Development] by Google Cloud 
 
 ![Google Cloud OnBoard](Certificates/EC_01(9516)_page-0001.jpg)
-### [>>  Google Cloud OnBoard: Application Development] by Google Cloud 
-![alt-text](Certificates/udemyc++certificate.jpg)
-### [>>  Google Cloud OnBoard: Application Development] by Google Cloud 
+### [>>  Crash Course on Python] by Google 
+![ Crash Course on Python](Certificates/CourseraCrashpythoncert_page-0001.jpg)
+### [>>  Rest API (Intermediate) Certification] by Hackerrank
 
-![Google Cloud OnBoard](Certificates/EC_01(9516)_page-0001.jpg)
-### [>>  Google Cloud OnBoard: Application Development] by Google Cloud 
-![alt-text](Certificates/udemyc++certificate.jpg)
-### [>>  Google Cloud OnBoard: Application Development] by Google Cloud 
+![Rest API (Intermediate) Certification](Certificates/rest_api_intermediate certificate_page-0001.jpg)
+### [>>  Programming for Everybody] by University of Michigan
+![Programming for Everybody](Certificates/Coursera VQ8CKDHF7T8Spython_page-0001.jpg)
+### [>>  Software Engineering Virtual Experience] by JPMorgan Chase & Co. 
 
-![Google Cloud OnBoard](Certificates/EC_01(9516)_page-0001.jpg)
-### [>>  Google Cloud OnBoard: Application Development] by Google Cloud 
-![alt-text](Certificates/udemyc++certificate.jpg)
-### [>>  Google Cloud OnBoard: Application Development] by Google Cloud 
+![Software Engineering Virtual Experience](Certificates/JPMorgan_CERTIFICATE_page-0001.jpg)
 
-![Google Cloud OnBoard](Certificates/EC_01(9516)_page-0001.jpg)
-### [>>  Google Cloud OnBoard: Application Development] by Google Cloud 
-![alt-text](Certificates/udemyc++certificate.jpg)
+### [>>  C++ Programming] by Udemy 
+![C++ Programming](Certificates/udemyc++certificate.jpg)
 
 
 #### >>>> Please visit [this](verifylink) for verification
